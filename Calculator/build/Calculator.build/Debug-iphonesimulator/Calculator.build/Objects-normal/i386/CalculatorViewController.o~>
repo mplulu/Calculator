@@ -1,0 +1,4 @@
+/Users/giadang/Project/Calculator/Calculator/Classes/CalculatorViewController.m: In function '-[CalculatorViewController solvePressed:]':
+/Users/giadang/Project/Calculator/Calculator/Classes/CalculatorViewController.m:71: warning: passing argument 1 of 'dictionaryWithObjectsAndKeys:' makes pointer from integer without a cast
+/Users/giadang/Project/Calculator/Calculator/Classes/CalculatorViewController.m: At top level:
+/Users/giadang/Project/Calculator/Calculator/Classes/CalculatorViewController.m:85: warning: property 'userIsInTheMiddleOfTypingANumber' requires method '-userIsInTheMiddleOfTypingANumber' to be defined - use @synthesize, @dynamic or provide a method implementation

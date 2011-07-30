@@ -19,7 +19,8 @@
 }
 
 @property double operand;
-@property (readonly) id expression; 
+@property NSString *waitingOperation;
+@property (nonatomic,retain,readonly) id expression; 
 
 
 - (void)setOperand:(double)aDouble; 

@@ -30,7 +30,9 @@
 		userIsInTheMiddleOfTypingANumber=NO;
 	}
 	NSString *operation=[[sender titleLabel] text];
+	
 	double result=[self.brain performOperation:operation];
+	
 	[display setText:[NSString stringWithFormat:@"%g",result]];
 	
 }
@@ -41,10 +43,16 @@
 	
 	NSString *digit=[[sender titleLabel] text];
 	if(userIsInTheMiddleOfTypingANumber){
-		[display setText:[[display text] stringByAppendingFormat:digit]];
+		[display setText:[[display text] stringByAppendingString:digit]];
 	}else{
-		[display setText:digit];
-		userIsInTheMiddleOfTypingANumber=YES;
+		if(![CalculatorBrain variablesInExpression:self.brain.expression]){
+			[display setText:digit];
+			userIsInTheMiddleOfTypingANumber=YES;
+		}else {
+			[display setText:[CalculatorBrain descriptionOfExpression:self.brain.expression]];
+		}
+
+		
 	}
 	
 }
@@ -52,15 +60,17 @@
 -(IBAction)variablePressed:(UIButton *) sender{
 	NSString *variable=[[sender titleLabel] text];
 	[self.brain setVariableAsOperand:variable];
+	[display setText:[CalculatorBrain descriptionOfExpression:self.brain.expression]];
 }
 
 -(IBAction)solvePressed:(UIButton *) sender{
 	NSDictionary *dic=[NSDictionary dictionaryWithObjectsAndKeys:
-					   @"1", @"x", 
-					   @"5", @"y", 
-					   @"7", @"z", 
-					   @"23", @"a", nil];
-	double result=[self.brain evaluateExpression:self.brain.expression usingVariableValues:dic];
+					   1, @"x", 
+					   3, @"y", 
+					   7, @"z", 
+					   23, @"a", nil];
+	
+	double result=[CalculatorBrain evaluateExpression:self.brain.expression usingVariableValues:dic];
 	[display setText:[NSString stringWithFormat:@"%g",result]];
 }
 
