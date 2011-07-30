@@ -1,0 +1,256 @@
+TCalculator
+v7
+r0
+t321725327.998850
+cCheck dependencies
+cProcessInfoPlistFile /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist Calculator-Info.plist
+cCompileXIB /Users/giadang/Desktop/Calculator/MainWindow.xib
+cCompileXIB /Users/giadang/Desktop/Calculator/CalculatorViewController.xib
+cProcessPCH /var/folders/Sa/Sa9-d-I4HjONN77C3Axlm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-hgabsbbykftkgqdtagcelrbyshdt/Calculator_Prefix.pch.gch Calculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o /Users/giadang/Desktop/Calculator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o /Users/giadang/Desktop/Calculator/Classes/CalculatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o /Users/giadang/Desktop/Calculator/Classes/CalculatorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator normal i386
+cGenerateDSYMFile /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+cTouch /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/giadang/Desktop/Calculator/CalculatorViewController.xib
+c000000004D7CEBFB0000000000001A51
+t1300032507
+s6737
+
+N/Users/giadang/Desktop/Calculator/Calculator_Prefix.pch
+c000000004D7CEBFB00000000000000BD
+t1300032507
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/giadang/Desktop/Calculator/Classes/CalculatorAppDelegate.h
+c000000004D7CEBFB00000000000001E0
+t1300032507
+s480
+i<UIKit/UIKit.h>
+
+N/Users/giadang/Desktop/Calculator/Classes/CalculatorAppDelegate.m
+c000000004D7CEBFB0000000000000A93
+t1300032507
+s2707
+i"CalculatorAppDelegate.h"
+i"CalculatorViewController.h"
+
+N/Users/giadang/Desktop/Calculator/Classes/CalculatorViewController.h
+c000000004D7CEBFB00000000000000E6
+t1300032507
+s230
+i<UIKit/UIKit.h>
+
+N/Users/giadang/Desktop/Calculator/Classes/CalculatorViewController.m
+c000000004D7CEBFB00000000000005BC
+t1300032507
+s1468
+i"CalculatorViewController.h"
+
+N/Users/giadang/Desktop/Calculator/MainWindow.xib
+c000000004D7CEBFB0000000000004E4D
+t1300032507
+s20045
+
+N/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/Calculator.LinkFileList
+c000000004D7CEC0B0000000000000196
+t1300032523
+s406
+
+N/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o
+t1300032527
+s51056
+
+N/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o
+t1300032527
+s37552
+
+N/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o
+t1300032527
+s6292
+
+N/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app
+t1300032527
+s238
+
+N/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM
+t1300032527
+s102
+
+N/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+t1300032527
+s17192
+
+N/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/CalculatorViewController.nib
+t1300032525
+s795
+
+N/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist
+t1300032523
+s603
+
+N/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/MainWindow.nib
+t1300032524
+s1129
+
+N/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/PkgInfo
+t1300032523
+s8
+
+N/Users/giadang/Desktop/Calculator/main.m
+c000000004D7CEBFB000000000000015B
+t1300032507
+s347
+i<UIKit/UIKit.h>
+
+N/var/folders/Sa/Sa9-d-I4HjONN77C3Axlm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-hgabsbbykftkgqdtagcelrbyshdt/Calculator_Prefix.pch.gch
+t1300032526
+s15453392
+
+NCalculator-Info.plist
+c000000004D7CEBFB000000000000038D
+t1300032507
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321725323#321725323#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o /Users/giadang/Desktop/Calculator/Classes/CalculatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321725327.341471
+e321725327.459180
+r1
+xCompileC
+xbuild/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o
+x/Users/giadang/Desktop/Calculator/Classes/CalculatorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/giadang/Desktop/Calculator/Classes/CalculatorAppDelegate.m321725327#321725327#0(0"0(0#0#65"/Users/giadang/Desktop/Calculator/Classes/CalculatorAppDelegate.m8612945728#1961"    cd /Users/giadang/Desktop/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -F/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator -I/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/include -I/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -include /var/folders/Sa/Sa9-d-I4HjONN77C3Axlm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-hgabsbbykftkgqdtagcelrbyshdt/Calculator_Prefix.pch -c /Users/giadang/Desktop/Calculator/Classes/CalculatorAppDelegate.m -o /Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o0#
+
+CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o /Users/giadang/Desktop/Calculator/Classes/CalculatorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321725327.459321
+e321725327.570552
+r1
+xCompileC
+xbuild/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o
+x/Users/giadang/Desktop/Calculator/Classes/CalculatorViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/giadang/Desktop/Calculator/Classes/CalculatorViewController.m321725327#321725327#0(0"0(0#0#68"/Users/giadang/Desktop/Calculator/Classes/CalculatorViewController.m8612447072#1967"    cd /Users/giadang/Desktop/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -F/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator -I/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/include -I/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -include /var/folders/Sa/Sa9-d-I4HjONN77C3Axlm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-hgabsbbykftkgqdtagcelrbyshdt/Calculator_Prefix.pch -c /Users/giadang/Desktop/Calculator/Classes/CalculatorViewController.m -o /Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o0#
+
+CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o /Users/giadang/Desktop/Calculator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321725326.760031
+e321725327.341339
+r1
+xCompileC
+xbuild/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o
+x/Users/giadang/Desktop/Calculator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/giadang/Desktop/Calculator/main.m321725326#321725327#0(0"0(0#0#40"/Users/giadang/Desktop/Calculator/main.m8616549984#1919"    cd /Users/giadang/Desktop/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -F/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator -I/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/include -I/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -include /var/folders/Sa/Sa9-d-I4HjONN77C3Axlm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-hgabsbbykftkgqdtagcelrbyshdt/Calculator_Prefix.pch -c /Users/giadang/Desktop/Calculator/main.m -o /Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/giadang/Desktop/Calculator/CalculatorViewController.xib
+s321725324.478254
+e321725325.070115
+r1
+xCompileXIB
+x/Users/giadang/Desktop/Calculator/CalculatorViewController.xib
+lSLF07#2@39"CompileXIB CalculatorViewController.xib321725324#321725325#0(0"0(0#0#62"/Users/giadang/Desktop/Calculator/CalculatorViewController.xib8619121792#586"    cd /Users/giadang/Desktop/Calculator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/CalculatorViewController.nib /Users/giadang/Desktop/Calculator/CalculatorViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/giadang/Desktop/Calculator/MainWindow.xib
+s321725323.511392
+e321725324.478135
+r1
+xCompileXIB
+x/Users/giadang/Desktop/Calculator/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321725323#321725324#0(0"0(0#0#48"/Users/giadang/Desktop/Calculator/MainWindow.xib8619392416#558"    cd /Users/giadang/Desktop/Calculator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/MainWindow.nib /Users/giadang/Desktop/Calculator/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+s321725327.885324
+e321725327.967788
+r1
+xGenerateDSYMFile
+x/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM
+x/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Calculator.app.dSYM build/Debug-iphonesimulator/Calculator.app/Calculator321725327#321725327#0(0"0(0#0#87"/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator8614585440#377"    cd /Users/giadang/Desktop/Calculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator -o /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM0#
+
+CLd /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator normal i386
+s321725327.570681
+e321725327.885191
+r1
+xLd
+x/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+xnormal
+xi386
+lSLF07#2@92"Link /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator321725327#321725327#0(0"0(0#0#0"8606578304#890"    cd /Users/giadang/Desktop/Calculator    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator -F/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator -filelist /Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/Calculator.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator0#
+
+CProcessInfoPlistFile /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist Calculator-Info.plist
+s321725323.438821
+e321725323.511266
+r1
+xProcessInfoPlistFile
+x/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist
+xCalculator-Info.plist
+lSLF07#2@29"Process Calculator-Info.plist321725323#321725323#0(0"0(0#0#55"/Users/giadang/Desktop/Calculator/Calculator-Info.plist30681223440564324#473"    cd /Users/giadang/Desktop/Calculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Calculator-Info.plist -genpkginfo /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist0#
+
+CProcessPCH /var/folders/Sa/Sa9-d-I4HjONN77C3Axlm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-hgabsbbykftkgqdtagcelrbyshdt/Calculator_Prefix.pch.gch Calculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321725325.070601
+e321725326.759799
+r1
+xProcessPCH
+x/var/folders/Sa/Sa9-d-I4HjONN77C3Axlm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-hgabsbbykftkgqdtagcelrbyshdt/Calculator_Prefix.pch.gch
+xCalculator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Calculator_Prefix.pch321725325#321725326#0(0"0(0#0#55"/Users/giadang/Desktop/Calculator/Calculator_Prefix.pch8620166656#1813"    cd /Users/giadang/Desktop/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -F/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator -I/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/include -I/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Users/giadang/Desktop/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -c /Users/giadang/Desktop/Calculator/Calculator_Prefix.pch -o /var/folders/Sa/Sa9-d-I4HjONN77C3Axlm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-hgabsbbykftkgqdtagcelrbyshdt/Calculator_Prefix.pch.gch0#
+
+CTouch /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app
+s321725327.967908
+e321725327.998784
+r1
+xTouch
+x/Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app
+lSLF07#2@82"Touch /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app321725327#321725327#0(0"0(0#0#0"8613284672#271"    cd /Users/giadang/Desktop/Calculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/giadang/Desktop/Calculator/build/Debug-iphonesimulator/Calculator.app0#
+
